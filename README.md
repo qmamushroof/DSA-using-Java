@@ -1,4 +1,5 @@
 Go to "src" to see my codes
+Each .java file contains solutions(inside functions) to different DSA problems of a particular category.
 
 ## Folder Structure
 
