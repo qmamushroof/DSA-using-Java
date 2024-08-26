@@ -1,6 +1,8 @@
 // https://leetcode.com/problems/3sum/
 
-import java.util.*;
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Arrays;
 
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {// T=O(n²+nlogn) S=O(triplets+logn)
